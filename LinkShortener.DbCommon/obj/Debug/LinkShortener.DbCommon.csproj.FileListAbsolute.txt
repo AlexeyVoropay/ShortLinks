@@ -1,0 +1,9 @@
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\bin\Debug\LinkShortener.DbCommon.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\bin\Debug\LinkShortener.DbCommon.pdb
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\bin\Debug\LinkShortener.Common.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\bin\Debug\LinkShortener.Common.pdb
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\obj\Debug\LinkShortener.DbCommon.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\obj\Debug\LinkShortener.DbCommon.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\obj\Debug\LinkShortener.DbCommon.csproj.CopyComplete
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\obj\Debug\LinkShortener.DbCommon.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.DbCommon\obj\Debug\LinkShortener.DbCommon.pdb

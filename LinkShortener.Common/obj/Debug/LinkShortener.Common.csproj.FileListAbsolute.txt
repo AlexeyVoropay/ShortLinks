@@ -1,0 +1,5 @@
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.Common\bin\Debug\LinkShortener.Common.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.Common\bin\Debug\LinkShortener.Common.pdb
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.Common\obj\Debug\LinkShortener.Common.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.Common\obj\Debug\LinkShortener.Common.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.Common\obj\Debug\LinkShortener.Common.pdb

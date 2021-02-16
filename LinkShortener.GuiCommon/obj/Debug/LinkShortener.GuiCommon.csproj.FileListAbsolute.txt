@@ -1,0 +1,9 @@
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\bin\Debug\LinkShortener.GuiCommon.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\bin\Debug\LinkShortener.GuiCommon.pdb
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\bin\Debug\LinkShortener.Common.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\bin\Debug\LinkShortener.Common.pdb
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\obj\Debug\LinkShortener.GuiCommon.csprojAssemblyReference.cache
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\obj\Debug\LinkShortener.GuiCommon.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\obj\Debug\LinkShortener.GuiCommon.csproj.CopyComplete
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\obj\Debug\LinkShortener.GuiCommon.dll
+C:\Users\Zver\Desktop\_Projects\ShortLinks\LinkShortener.GuiCommon\obj\Debug\LinkShortener.GuiCommon.pdb
